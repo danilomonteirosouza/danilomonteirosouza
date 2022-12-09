@@ -9,6 +9,8 @@
 
 I'm a Flutter Developer and Scrum Master :smile:
 
+<img src="https://images.credly.com/size/40x40/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png"/>
+
 I'm a passionate to create Android and iOS Apps that transform the form of people interacts with the world and yourself through Apps responsives, secures and scalables.
  
 ## My specialities:
@@ -23,7 +25,6 @@ I'm a passionate to create Android and iOS Apps that transform the form of peopl
 
 ### Version Control: <img src="https://img.shields.io/badge/git%20-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
-### Scrum Certified: <img src="https://images.credly.com/size/40x40/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png"/>
 
 ## What I don't know, give me a few days 😁
 

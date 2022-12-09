@@ -10,9 +10,8 @@ Certified Scrum Master and Flutter Developer :smile:
 
 I'm a passionate to create Android and iOS Apps that transform the form of people interacts with the world and yourself through Apps responsives, secures and scalables.
 
-<a href="https://www.credly.com/badges/5b1891cd-5fd7-4aa2-9e7d-118eeb022e68" rel="some text">![Scrum Certified](https://images.credly.com/size/50x50/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png)</a> 
+<a href="https://www.credly.com/badges/5b1891cd-5fd7-4aa2-9e7d-118eeb022e68" rel="some text">![Scrum Certified](https://images.credly.com/size/70x70/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png)</a> 
 <a href="https://androidatc.com/_transcript.php?action=public&u=lMLczd7e1tOgpJaZ093X4eTjxWNwmJ3C19Cg0tjR"><img src="https://androidatc.com/template/style/img/transcript.jpg" width=6% height=6%></a>
-
 
 ## My specialities:
 
@@ -25,7 +24,6 @@ I'm a passionate to create Android and iOS Apps that transform the form of peopl
 ### Mobile Architectures: <img src ="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> <img src ="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
 
 ### Version Control: <img src="https://img.shields.io/badge/git%20-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-
 
 ## What I don't know, give me a few days 😁
 

@@ -11,7 +11,7 @@ Certified Flutter Developer and Scrum Master :smile:
 
 I'm a passionate to create Android and iOS Apps that transform the form of people interacts with the world and yourself through Apps responsives, secures and scalables.
 
-<a href="https://www.credly.com/badges/5b1891cd-5fd7-4aa2-9e7d-118eeb022e68" rel="some text">![Scrum Certified](https://images.credly.com/size/70x70/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png)</a> 
+<a href="https://www.credly.com/badges/5b1891cd-5fd7-4aa2-9e7d-118eeb022e68" rel="some text">![Scrum Certified](https://images.credly.com/size/50x50/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png)</a> 
 <a href="https://androidatc.com/_transcript.php?action=public&u=lMLczd7e1tOgpJaZ093X4eTjxWNwmJ3C19Cg0tjR"><img src="https://androidatc.com/template/style/img/transcript.jpg" width=6% height=6%></a>
 
 ## My specialities:

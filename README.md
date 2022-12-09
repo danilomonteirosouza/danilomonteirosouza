@@ -1,7 +1,6 @@
 
 # Hi, I'm Danilo Monteiro Souza!
 
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/danilomonteirosouza)](https://github.com/danilomonteirosouza)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-monteiro-souza-msc-771131a9/)](https://www.linkedin.com/in/danilo-monteiro-souza-msc-771131a9/)
 [![Stackoverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://pt.stackoverflow.com/users/67486/danilo-monteiro-souza?tab=profile/)](https://pt.stackoverflow.com/users/67486/danilo-monteiro-souza?tab=profile/)
 

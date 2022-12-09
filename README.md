@@ -7,13 +7,13 @@
 
 ## About me:
 
-I'm a Fullstack Developer :smile:
+I'm a Flutter Developer and Scrum Master :smile:
 
-I Love code and create new stuff, i like too much to discover new technologies and dive deep in solving problems.
+I'm a passionate to create Android and iOS Apps that transform the form of people interacts with the world and yourself through Apps responsives, secures and scalables.
+ 
+## My specialities:
 
-## My specialties:
-
-### Languages: <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+### Languages: <img src="	https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 
 ### Frontend: <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js%20-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 

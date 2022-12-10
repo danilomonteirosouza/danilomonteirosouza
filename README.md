@@ -6,8 +6,8 @@
 
 ## About me:
 
- Professional Scrum Master™ and Flutter Application Developer :smile:
-
+  <a href="https://www.credly.com/badges/5b1891cd-5fd7-4aa2-9e7d-118eeb022e68" rel="some text">Professional Scrum Master™</a> and <a href="https://www.credly.com/badges/5b1891cd-5fd7-4aa2-9e7d-118eeb022e68" rel="some text">Flutter Application Developer</a>
+ 
 I'm a passionate to create Android and iOS Apps that transform the form of people interacts with the world and yourself through Apps responsives, secures and scalables.
 
 ## My specialities:

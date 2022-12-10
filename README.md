@@ -6,7 +6,7 @@
 
 ## About me:
 
-Certified Scrum Master and Flutter Developer :smile:
+ Professional Scrum Master™ and Flutter Developer :smile:
 
 I'm a passionate to create Android and iOS Apps that transform the form of people interacts with the world and yourself through Apps responsives, secures and scalables.
 

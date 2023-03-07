@@ -26,7 +26,7 @@ I have advanced abilities in: Dart, Scrum Framework, Firebase, SQLite, Artificia
 
 ### Languages: <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 
-### Framework: <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+### Framework & Library: <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src ="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"/>
 
 ### Backend: <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
@@ -42,7 +42,6 @@ I have advanced abilities in: Dart, Scrum Framework, Firebase, SQLite, Artificia
 
 ### Prototyping Platforms: <img src ="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/> <img src ="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/>
 
-### Others: <img src ="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"/>
 ## My GitHub Stats:
 
 <a href="https://github.com/danilomonteirosouza" align="left"><img src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=danilomonteirosouza&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>

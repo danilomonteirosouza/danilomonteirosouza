@@ -40,7 +40,7 @@ I have advanced abilities in: Dart, Scrum Framework, Firebase, SQLite, Artificia
 
 ### Operational Systems: <img src ="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/> <img src ="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src ="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 
-
+### Others: <img src ="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"/>
 ## My GitHub Stats:
 
 <a href="https://github.com/danilomonteirosouza" align="left"><img src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=danilomonteirosouza&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>

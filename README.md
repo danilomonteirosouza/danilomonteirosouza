@@ -8,22 +8,17 @@
 
   <a href="https://www.credly.com/badges/5b1891cd-5fd7-4aa2-9e7d-118eeb022e68" rel="some text">Professional Scrum Master™</a> and <a href="https://androidatc.com/_transcript.php?action=public&u=lMLczd7e1tOgpJaZ093X4eTjxWNwmJ3C19Cg0tjR" rel="some text">Flutter Application Developer</a>
  
-Flutter Application Developer | Professional Scrum Master™ | IoT Designer
+Flutter Application Developer | Professional Scrum Master™ | IoT Engineer
 
-I have professional experience as a Flutter mobile developer specializing in responsive design, application integration and Smart Cities.
+I have 4 years in professional experience as a Flutter mobile developer specializing in responsive design, application integration and Smart Cities.
 
-Currently, I am working on a research project that seeks to develop a remote system to reduce system response time through extreme events such as floods and landslides in order to minimize human losses through devices and technologies such as: LoRa 32, ESP32, ESP8266, KAFKA and Flutter/Dart.
+Currently, I am working (in my doctorate) on a research project that seeks to develop a remote system to reduce system response time through extreme events such as floods and landslides in order to minimize human losses through devices and technologies such as: LoRa 32, ESP32, ESP8266, KAFKA and Flutter/Dart.
 
 I received my bachelor’s degree in computer engineering from Paulista University and my master’s degree in computer engineering from Pernambuco University. Actually I am a Ph.D Student in Pernambuco 
 University in computer engineering. I am certified by scrum.org as a Professional Scrum Master and by 
 AndroidATC as a Flutter Developer. I also have relevant scientific publications on important journals 
 such as Nature and Springer in artificial intelligence applied to the detection of malicious software, and I 
-also have a software patent registered in my country. 
-
-In my current role as Coordinator of Innovation and Development at State Technical School of Pernambuco 
-I am responsible for manage a group of 8 trainee developers to create an application using Flutter, 
-Dart and Firebase to minimize the time spent by a professor to check students in the classroom using 
-artificial intelligence (specifically, convolutional neural networks) for the facial recognition.
+also have a software patent registered in my country.
 
 I have advanced abilities in: Dart, Scrum Framework, Firebase, SQLite, Artificial Intelligence (Evolutionary Computation), MVC, REST API, Git, GitHub, JSON, MacOS, Linux, Windows, Motion Design, IoT, State Management with Bloc, Lora 32, ESP32, ESP8266, Arduino, Docker, Kubernets and GraphQL.
 

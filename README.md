@@ -20,13 +20,13 @@ AndroidATC as a Flutter Developer. I also have relevant scientific publications 
 such as Nature and Springer in artificial intelligence applied to the detection of malicious software, and I 
 also have a software patent registered in my country.
 
-I have advanced abilities in: Dart, C, Scrum Framework, Firebase, SQLite, Artificial Intelligence (Evolutionary Computation), MVC, REST API, Git, GitHub, JSON, MacOS, Linux, Windows, Motion Design, IoT, State Management with Bloc, Lora 32, ESP32, ESP8266, Arduino, Docker, Kubernets and GraphQL.
+I have advanced abilities in: Dart, C, Scrum Framework, Firebase, SQLite, Artificial Intelligence (Evolutionary Computation), MVC, REST API, Git, GitHub, JSON, MacOS, Linux, Windows, Motion Design, IoT, State Management with Bloc, Lora 32, ESP32, ESP8266, Arduino, Raperberry PI, Docker, Kubernets and GraphQL.
 
 ## My specialities:
 
 ### Languages: <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 
-### Framework & Library: <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src ="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"/>
+### Framework & Library: <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src ="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"/> <img src ="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/> <img src ="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
 
 ### Backend: <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 

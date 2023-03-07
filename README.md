@@ -20,7 +20,7 @@ AndroidATC as a Flutter Developer. I also have relevant scientific publications 
 such as Nature and Springer in artificial intelligence applied to the detection of malicious software, and I 
 also have a software patent registered in my country.
 
-I have advanced abilities in: Dart, Scrum Framework, Firebase, SQLite, Artificial Intelligence (Evolutionary Computation), MVC, REST API, Git, GitHub, JSON, MacOS, Linux, Windows, Motion Design, IoT, State Management with Bloc, Lora 32, ESP32, ESP8266, Arduino, Docker, Kubernets and GraphQL.
+I have advanced abilities in: Dart, C, Scrum Framework, Firebase, SQLite, Artificial Intelligence (Evolutionary Computation), MVC, REST API, Git, GitHub, JSON, MacOS, Linux, Windows, Motion Design, IoT, State Management with Bloc, Lora 32, ESP32, ESP8266, Arduino, Docker, Kubernets and GraphQL.
 
 ## My specialities:
 

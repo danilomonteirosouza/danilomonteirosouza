@@ -1,6 +1,4 @@
 
-## ---- Project and description of project in constant updating  ---
-
 # Hi, I'm Danilo Monteiro Souza!
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-monteiro-souza-msc-771131a9/)](https://www.linkedin.com/in/danilo-monteiro-souza-msc-771131a9/)

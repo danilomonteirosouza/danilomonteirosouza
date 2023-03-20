@@ -1,5 +1,5 @@
 
-## ---- Project in constant updating. Awaiting... ---
+## ---- Project and description of project in constant updating  ---
 
 # Hi, I'm Danilo Monteiro Souza!
 

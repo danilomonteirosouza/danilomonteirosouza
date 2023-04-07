@@ -12,15 +12,11 @@ Flutter Application Developer | Professional Scrum Master™ | IoT Engineer
 
 Experienced professional Flutter Mobile Developer specializing in responsive design, application integration and Smart Cities.
 
-Currently, I am working (in my doctorate) on a research project that seeks to develop a remote system to reduce system response time through extreme events such as floods and landslides in order to minimize human losses through devices and technologies such as: LoRa 32, ESP32, ESP8266, KAFKA and Flutter/Dart.
+Currently, I am working (in my doctorate) on a research project that seeks to develop a remote system to reduce system response time through extreme events such as floods and landslides in order to minimize human losses through devices and technologies such as: LoRa 32, ESP32, ESP8266, KAFKA, Flutter/Dart and HiveMQ Cloud.
 
-I received my bachelor’s degree in computer engineering from Paulista University and my master’s degree in computer engineering from Pernambuco University. Actually I am a Ph.D Student in Pernambuco 
-University in computer engineering. I am certified by scrum.org as a Professional Scrum Master and by 
-AndroidATC as a Flutter Developer. I also have relevant scientific publications on important journals 
-such as Nature and Springer in artificial intelligence applied to the detection of malicious software, and I 
-also have a software patent registered in my country.
+I received my bachelor’s degree in computer engineering from University Paulista and my master’s degree in computer engineering from University of Pernambuco. Actually I am a Ph.D Student in the University of Pernambuco on computer engineering. I am certified by scrum.org as a Professional Scrum Master and by AndroidATC as a Flutter Developer. I also have relevant scientific publications on important journals such as Nature and Springer in artificial intelligence applied to the detection of malicious software, and I also have a software patent registered in my country.
 
-I have advanced abilities in: Dart, C, Scrum Framework, Firebase, SQLite, Artificial Intelligence (Evolutionary Computation), MVC, REST API, Git, GitHub, JSON, MacOS, Linux, Windows, Motion Design, IoT, State Management with Bloc, Lora 32, ESP32, ESP8266, Arduino, Raspberry PI, Docker, Kubernets and GraphQL.
+I have advanced abilities in: Dart, C, Python, Scrum Framework, Flutter Framework, Firebase, Docker, Kubernets, SQLite, Artificial Intelligence (Evolutionary Computation), MVC, REST API, Git, GitHub, JSON, MacOS, Linux, Windows, Motion Design, IoT, HiveMQ Cloud, State Management with Bloc, Lora 32, ESP32, ESP8266, Arduino, Raspberry PI, Docker, Kubernets and GraphQL.
 
 ## My specialities:
 

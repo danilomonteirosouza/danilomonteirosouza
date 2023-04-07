@@ -10,7 +10,7 @@
  
 Flutter Application Developer | Professional Scrum Master™ | IoT Engineer
 
-Experienced professional Flutter Mobile Developer specializing in responsive design, application integration and Smart Cities.
+Experienced professional Flutter Developer specializing in responsive design, application integration and Smart Cities.
 
 Currently, I am working (in my doctorate) on a research project that seeks to develop a remote system to reduce system response time through extreme events such as floods and landslides in order to minimize human losses through devices and technologies such as: LoRa 32, ESP32, ESP8266, KAFKA, Flutter/Dart and HiveMQ Cloud.
 

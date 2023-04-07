@@ -16,7 +16,7 @@ Currently, I am working (in my doctorate) on a research project that seeks to de
 
 I received my bachelor’s degree in computer engineering from University Paulista and my master’s degree in computer engineering from University of Pernambuco. Actually I am a Ph.D Student in the University of Pernambuco on computer engineering. I am certified by scrum.org as a Professional Scrum Master and by AndroidATC as a Flutter Developer. I also have relevant scientific publications on important journals such as Nature and Springer in artificial intelligence applied to the detection of malicious software, and I also have a software patent registered in my country.
 
-I have advanced abilities in: Dart, C, Python, Scrum Framework, Flutter Framework, Firebase, Docker, Kubernets, SQLite, Artificial Intelligence (Evolutionary Computation), MVC, REST API, Git, GitHub, JSON, MacOS, Linux, Windows, Motion Design, IoT, HiveMQ Cloud, State Management with Bloc, Lora 32, ESP32, ESP8266, Arduino, Raspberry PI, Docker, Kubernets and GraphQL.
+I have advanced abilities in: Dart, C, Python, Scrum Framework, Flutter Framework, Firebase, Docker, Kubernetes, SQLite, Artificial Intelligence (Evolutionary Computation), MVC, REST API, Git, GitHub, JSON, MacOS, Linux, Windows, Motion Design, IoT, HiveMQ Cloud, State Management with Bloc, Lora 32, ESP32, ESP8266, Arduino, Raspberry PI, Docker, Kubernets and GraphQL.
 
 ## My specialities:
 
